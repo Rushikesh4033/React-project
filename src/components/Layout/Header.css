@@ -1,0 +1,38 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav-menu {
+list-style: none;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 20px;
+}
+
+.nav-menu li {
+    margin: 0px 20px;
+}
+.nav-menu li a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}
+.active{
+    color: goldenrod !important;
+    font-weight: bold !important;
+}
+/* mobile view css start */
+.mobile-nav-menu {
+list-style: none;
+}
+.mobile-nav-menu li {
+ margin-top: 20px;
+}
+.mobile-nav-menu li a {
+font-size: 18px;
+text-decoration: none;
+font-family: sans-serif;
+font-weight: 600;
+color: black;
+}
