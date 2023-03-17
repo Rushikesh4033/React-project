@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-project/static/css/main.c41a7cdf.css",
+    "main.js": "/React-project/static/js/main.7477e32b.js",
+    "static/js/787.0c3f432a.chunk.js": "/React-project/static/js/787.0c3f432a.chunk.js",
+    "static/media/masala.jpg": "/React-project/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/banner.jpeg": "/React-project/static/media/banner.05892fe97cce26a5d9e5.jpeg",
+    "static/media/chhola.jpg": "/React-project/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/logo.svg": "/React-project/static/media/logo.6fc22e5fbdec6b9338921613bddec0dd.svg",
+    "static/media/paneer.jpg": "/React-project/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/React-project/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/React-project/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/React-project/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "index.html": "/React-project/index.html",
+    "main.c41a7cdf.css.map": "/React-project/static/css/main.c41a7cdf.css.map",
+    "main.7477e32b.js.map": "/React-project/static/js/main.7477e32b.js.map",
+    "787.0c3f432a.chunk.js.map": "/React-project/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c41a7cdf.css",
+    "static/js/main.7477e32b.js"
+  ]
+}
